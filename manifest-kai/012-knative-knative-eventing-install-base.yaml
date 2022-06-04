@@ -1,5 +1,4 @@
-apiVersion: v1
-kind: ServiceAccount
+  : ServiceAccount
 metadata:
   labels:
     eventing.knative.dev/release: v0.14.2
